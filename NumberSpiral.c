@@ -38,6 +38,5 @@ int main() {
                 }
             }
             printf("%lld\n",res);
-            //System.out.println(String.valueOf(res).substring(0,String.valueOf(res).indexOf(".")));
         }
 }
